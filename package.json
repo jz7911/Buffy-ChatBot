@@ -1,0 +1,9 @@
+{
+  "name": "buffy-bgparks-chatbot",
+  "version": "1.0.0",
+  "description": "Buffy the Buffalo — BG Parks AI chatbot with web search",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}
